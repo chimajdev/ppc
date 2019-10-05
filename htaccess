@@ -252,7 +252,6 @@ deny from 104.214.247.16/28
 deny from 104.214.247.32/27
 deny from 104.214.247.64/26
 deny from 104.214.248.0/21
-deny from 104.215.0.0/17
 deny from 104.215.128.0/19
 deny from 104.215.160.0/28
 deny from 104.215.160.128/25
